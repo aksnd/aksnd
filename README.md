@@ -36,5 +36,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh0490)](https://solved.ac/pjh0490/)
 
 
+<h2>Contacts</h2>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://learncom1234.tistory.com/)](https://learncom1234.tistory.com/)
 
 
