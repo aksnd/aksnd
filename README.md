@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome&fontSize=90)
 
 <h1>Introduce</h1>
+
 <h3>백엔드, 데이터 분석, AI등에 관심이 있는 전산학부 학부생 박지훈입니다.</h3>
+
 
 <h2>✨ Tech Stack ✨</h2>
 
@@ -27,6 +29,9 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+
+
 
 
 
